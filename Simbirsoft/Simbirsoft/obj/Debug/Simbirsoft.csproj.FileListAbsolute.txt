@@ -1,0 +1,12 @@
+c:\users\олег\documents\visual studio 2012\Projects\Simbirsoft\Simbirsoft\bin\Debug\Simbirsoft.exe.config
+c:\users\олег\documents\visual studio 2012\Projects\Simbirsoft\Simbirsoft\obj\Debug\Simbirsoft.csprojResolveAssemblyReference.cache
+c:\users\олег\documents\visual studio 2012\Projects\Simbirsoft\Simbirsoft\bin\Debug\Simbirsoft.exe
+c:\users\олег\documents\visual studio 2012\Projects\Simbirsoft\Simbirsoft\bin\Debug\Simbirsoft.pdb
+c:\users\олег\documents\visual studio 2012\Projects\Simbirsoft\Simbirsoft\obj\Debug\Simbirsoft.exe
+c:\users\олег\documents\visual studio 2012\Projects\Simbirsoft\Simbirsoft\obj\Debug\Simbirsoft.pdb
+C:\Users\Олег\Desktop\Simbirsoft\Simbirsoft\bin\Debug\Simbirsoft.exe.config
+C:\Users\Олег\Desktop\Simbirsoft\Simbirsoft\obj\Debug\Simbirsoft.exe
+C:\Users\Олег\Desktop\Simbirsoft\Simbirsoft\obj\Debug\Simbirsoft.pdb
+C:\Users\Олег\Desktop\Simbirsoft\Simbirsoft\obj\Debug\Simbirsoft.csprojResolveAssemblyReference.cache
+C:\Users\Олег\Desktop\Simbirsoft\Simbirsoft\bin\Debug\Simbirsoft.exe
+C:\Users\Олег\Desktop\Simbirsoft\Simbirsoft\bin\Debug\Simbirsoft.pdb
